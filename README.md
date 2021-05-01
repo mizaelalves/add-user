@@ -1,24 +1,19 @@
-# frontend
+<h1 align="center">🪐Add User in Vue.js</h1>
+<br>
+<p align="center">🚀 A application to add and delete user</p>
 
-## Project setup
-```
-yarn install
-```
+<h4 align="center"> 
+	🚧  Add user in Vue.js 🚀 in development  🚧
+</h4>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Clone this repository
+$ git clone <https://github.com/mizaelalves/add-user-vue>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Access the folder
+$ cd add-user-vue
 
-### Lints and fixes files
-```
-yarn lint
-```
+# Install all dependences
+$ yarn install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Run application in development mode
+$ yarn run dev
