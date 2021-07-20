@@ -6,7 +6,7 @@
 	🚧  Add user in Vue.js 🚀 in development  🚧
 </h4>
 <h4 align="center"> 
-	This app comunicates to this API https://userapinode.herokuapp.com/users<br>
+	This app communicates to this API https://userapinode.herokuapp.com/users<br>
 	<a href="https://github.com/mizaelalves/add-user-nodejs">click here to go to the add-user-nodejs repository</a>
 </h4>
 
